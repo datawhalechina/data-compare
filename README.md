@@ -1,5 +1,8 @@
 # dataCompare
 
+githup:https://github.com/dromara/dataCompare
+gitee: https://gitee.com/dromara/data-compare
+
 ![](https://gitee.com/ZhuGeZiFang/data-compare/badge/star.svg)
 ![](https://gitee.com/ZhuGeZiFang/data-compare/badge/fork.svg?theme=gvp)
 ![](https://img.shields.io/github/stars/zhugezifang/dataCompare.svg?logo=GitHub)
